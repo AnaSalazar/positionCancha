@@ -1,0 +1,36 @@
+#canchaFut {
+  background-color: green;
+  width: 600px;
+  height: 300px;
+  margin: 0 auto;
+  position: relative;
+}
+
+.porteriaIzq {
+  width: 100px;
+  height: 200px;
+  border: 2px solid #FFFFFF;
+  position: absolute;
+  margin-top: 50px;
+}
+
+.porteriaDer{
+  width: 100px;
+  height: 200px;
+  border: 2px solid #FFFFFF;
+  position: absolute;
+  margin-top: 50px;
+  margin-left: 495px;
+}
+
+.circulo {
+   width: 175px;
+   height: 175px;
+   position: absolute;
+   -moz-border-radius: 50%;
+   -webkit-border-radius: 50%;
+   border-radius: 50%;
+   border: 2px solid #FFFFFF;
+   margin-left: 215px;
+   margin-top: 60px;
+}
