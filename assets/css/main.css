@@ -6,24 +6,33 @@
   position: relative;
 }
 
-.porteriaIzq {
-  width: 100px;
+#bordeCancha {
+  width: 585px;
+  height: 280px;
+  border: 2px solid white;
+  position: absolute;
+  left: 5px;
+  top: 10px;
+}
+
+.porterias {
+  width: 90px;
   height: 200px;
   border: 2px solid #FFFFFF;
   position: absolute;
-  margin-top: 50px;
 }
 
-.porteriaDer{
-  width: 100px;
-  height: 200px;
-  border: 2px solid #FFFFFF;
-  position: absolute;
-  margin-top: 50px;
-  margin-left: 495px;
+#porteriaIzq {
+  top: 50px;
+  left: 5px;
 }
 
-.circulo {
+#porteriaDer{
+  top: 50px;
+  left: 500px;
+}
+
+#circulo {
    width: 175px;
    height: 175px;
    position: absolute;
